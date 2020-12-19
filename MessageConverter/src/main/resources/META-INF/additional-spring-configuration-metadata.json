@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "activemq.producer",
+    "type": "java.lang.String",
+    "description": "A description for 'activemq.producer'"
+  },
+  {
+    "name": "activemq.consumer",
+    "type": "java.lang.String",
+    "description": "A description for 'activemq.consumer'"
+  }
+]}
